@@ -1,8 +1,8 @@
 # Co-prescription of Metformin and Antipsychotics in Severe Mental Illness: A UK Primary Care Cohort Study
 
-<i>Status: Pre-print</i>
+<i>Status: Published</i>
 
-> Farache Trajano L, Hayes JF, Launders N, Davies NM, Osborn DJP, Richards-Belle A. (2024) Co-prescription of Metformin and Antipsychotics in Severe Mental Illness: A UK Primary Care Cohort Study. https://doi.org/10.1101/2024.12.03.24318407
+> Farache Trajano L, Hayes JF, Launders N, Davies NM, Osborn DJP, Richards-Belle A. (2024) Co-prescription of Metformin and Antipsychotics in Severe Mental Illness: A UK Primary Care Cohort Study. BMJ Mental Health. doi: [10.1136/bmjment-2024-301505](https://doi.org/10.1136/bmjment-2024-301505)
 
 This study analyses the incidence, prevalence, and demographic patterns of metformin co-prescription among patients diagnosed with severe mental illness (SMI) initiating second-generation antipsychotics (SGAs) and estimates the impact of co-prescription on weight change. The data source is [Clinical Practice Research Datalink (CPRD)](https://www.cprd.com/). To support transparency and open science, this repository hosts code and materials which support the manuscript - including:
 
